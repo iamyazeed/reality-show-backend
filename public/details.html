@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Candidate Details</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="profile-card">
+    <div class="card">
+
+      <!-- Image container with class and id intact -->
+      <div class="photo-container" id="candidate-photo-container">
+        <img id="display-image" src="" alt="Candidate Image" class="avatar">
+      </div>
+
+      <div class="info">
+        <h2 id="display-name">Candidate Name</h2>
+
+        <div class="details">
+          <div>
+            <p class="label">Status</p>
+            <p class="value status-value" id="display-status">Active</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Button & Chess Number Box -->
+      <button class="chess" onclick="showChess()">Show Chess Number</button>
+      <div id="chess-box" style="margin-top: 15px; font-weight: bold;"></div>
+
+    </div>
+  </div>
+
+  <script src="details.js"></script>
+</body>
+</html>

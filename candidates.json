@@ -1,0 +1,188 @@
+[
+  {
+    "code": "A001",
+    "name": "gulam dastageer",
+    "chess": 101,
+    "image": "assets/gulam-dastageer.jpeg"
+  },
+  {
+    "code": "A002",
+    "name": "raihan",
+    "chess": 102,
+    "image": "assets/raihan.jpg"
+  },
+  {
+    "code": "A003",
+    "name": "shaheer",
+    "chess": 103,
+    "image": "assets/shaheer.jpg"
+  },
+  {
+    "code": "A004",
+    "name": "musharaf",
+    "chess": 104,
+    "image": "assets/musharaf.jpg"
+  },
+  {
+    "code": "A005",
+    "name": "javad",
+    "chess": 105,
+    "image": "assets/javad.jpg"
+  },
+  {
+    "code": "A006",
+    "name": "zaid multani",
+    "chess": 106,
+    "image": "assets/zaid-multani.jpg"
+  },
+  {
+    "code": "A007",
+    "name": "mufeed",
+    "chess": 107,
+    "image": "assets/mufeed.jpg"
+  },
+  {
+    "code": "A008",
+    "name": "thanveer sha",
+    "chess": 108,
+    "image": "assets/thanveer-sha.jpg"
+  },
+  {
+    "code": "A009",
+    "name": "rabeeh",
+    "chess": 109,
+    "image": "assets/rabeeh.jpg"
+  },
+  {
+    "code": "A010",
+    "name": "shahinsha",
+    "chess": 110,
+    "image": "assets/shahinsha.jpg"
+  },
+  {
+    "code": "A011",
+    "name": "rajjak hussain",
+    "chess": 111,
+    "image": "assets/rajjak-hussain.jpg"
+  },
+  {
+    "code": "A012",
+    "name": "rishad",
+    "chess": 112,
+    "image": "assets/rishad.jpg"
+  },
+  {
+    "code": "A013",
+    "name": "ashique aslin",
+    "chess": 113,
+    "image": "assets/ashique.jpg"
+  },
+  {
+    "code": "A014",
+    "name": "aflah",
+    "chess": 114,
+    "image": "assets/aflah.jpg"
+  },
+  {
+    "code": "A015",
+    "name": "najid",
+    "chess": 115,
+    "image": "assets/najid.jpg"
+  },
+  {
+    "code": "A016",
+    "name": "juraij",
+    "chess": 116,
+    "image": "assets/juraij.jpg"
+  },
+  {
+    "code": "A017",
+    "name": "shan",
+    "chess": 117,
+    "image": "assets/shan.jpg"
+  },
+  {
+    "code": "A018",
+    "name": "muhammed ibn ahmad",
+    "chess": 118,
+    "image": "assets/muhammad-ibn-ahmad.jpg"
+  },
+  {
+    "code": "A019",
+    "name": "shibili",
+    "chess": 119,
+    "image": "assets/shibli-c.jpg"
+  },
+  {
+    "code": "A020",
+    "name": "nafih",
+    "chess": 120,
+    "image": "assets/nafih.jpg"
+  },
+  {
+    "code": "A021",
+    "name": "shanu",
+    "chess": 121,
+    "image": "assets/shanu.jpg"
+  },
+  {
+    "code": "A022",
+    "name": "shifan",
+    "chess": 122,
+    "image": "assets/shifan.jpg"
+  },
+  {
+    "code": "A023",
+    "name": "basith",
+    "chess": 123,
+    "image": "assets/basith.jpg"
+  },
+  {
+    "code": "A024",
+    "name": "arshad",
+    "chess": 124,
+    "image": "assets/arshad.jpg"
+  },
+  {
+    "code": "A025",
+    "name": "sinan",
+    "chess": 125,
+    "image": "assets/sinan.jpg"
+  },
+  {
+    "code": "A026",
+    "name": "afsal",
+    "chess": 126,
+    "image": "assets/afsal.jpg"
+  },
+  {
+    "code": "A027",
+    "name": "munawar",
+    "chess": 127,
+    "image": "assets/munawar.jpg"
+  },
+  {
+    "code": "A028",
+    "name": "salmanul farisi",
+    "chess": 128,
+    "image": "assets/salmanul-farisi.jpg"
+  },
+  {
+    "code": "A029",
+    "name": "shamil",
+    "chess": 129,
+    "image": "assets/shamil.jpg"
+  },
+  {
+    "code": "A030",
+    "name": "thufail",
+    "chess": 130,
+    "image": "assets/thufail.jpg"
+  },
+  {
+    "code": "A031",
+    "name": "ajmal",
+    "chess": 131,
+    "image": "assets/ajmal.jpg"
+  }
+]
