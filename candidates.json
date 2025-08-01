@@ -185,4 +185,18 @@
     "chess": 131,
     "image": "assets/ajmal.jpg"
   }
+  ,
+  {
+    "code": "nk",
+    "name": "Musthafa",
+    "chess": 12345,
+    "image": "assets/nk.png"
+  }
+  ,
+  {
+    "code": "finu",
+    "name": "shaheem",
+    "chess": 12345,
+    "image": "assets/finu.png"
+  }
 ]
