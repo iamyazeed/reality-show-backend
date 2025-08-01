@@ -4,7 +4,7 @@ document.getElementById('loginForm').addEventListener('submit', async (e) => {
   const code = document.getElementById('code').value;
 
   try {
-    const res = await fetch('/login', {
+    const res = await fetch('https://reality-show-backend.onrender.com/login', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ name, code })
@@ -14,7 +14,7 @@ document.getElementById('loginForm').addEventListener('submit', async (e) => {
 
     if (data.success) {
       localStorage.setItem('candidate', JSON.stringify(data.data));
-      window.location.href = 'details.html'; // Create this page!
+      window.location.href = 'details.html'; // Make sure this page exists
     } else {
       document.getElementById('message').textContent = data.message;
     }
@@ -22,9 +22,3 @@ document.getElementById('loginForm').addEventListener('submit', async (e) => {
     console.error('Login error:', err);
   }
 });
-const res = await fetch('https://reality-show-backend.onrender.com', {
-  method: 'POST',
-  headers: { 'Content-Type': 'application/json' },
-  body: JSON.stringify({ name, code })
-});
-
